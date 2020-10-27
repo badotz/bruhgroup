@@ -1,0 +1,7 @@
+input[type="text"]{
+    padding: 10px;
+}
+.label{
+    width: 15.090%;
+}
+input[type='radio'] { transform: scale(1.3); }
